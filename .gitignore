@@ -122,6 +122,9 @@ celerybeat.pid
 # Environments
 .env
 .venv
+
+# Downloaded training corpora and local training artifacts
+/data/
 env/
 venv/
 ENV/
